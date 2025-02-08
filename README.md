@@ -1,4 +1,4 @@
-# Hate Speech Detection App
+# Phân loại cảm xúc đánh giá sản phẩm Shoppe
 
 Đồ án phân tích sắc thái ngôn từ sử dụng các mô hình học máy và dữ liệu từ Shopee API. Đồ án này sử dụng các công nghệ như Kafka, Pyspark, và mô hình học máy để xử lý và phân loại cảm xúc các bình luận từ Shopee.
 
@@ -9,8 +9,7 @@
 ### Cài đặt các gói cần thiết:
 1. Clone repository của dự án:
     ```bash
-    git clone https://github.com/your-username/HateSpeechDetectionApp.git
-    cd HateSpeechDetectionApp
+    git clone https://github.com/KudoShiinichi/IE212.git
     ```
 
 2. Cài đặt các gói yêu cầu:
